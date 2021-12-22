@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нормальная версия приложения по жданову", "Нормальная версия приложения по жданову\Нормальная версия приложения по жданову.csproj", "{CD8CCD0F-871B-45FC-B63D-585CD9BCE989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8CCD0F-871B-45FC-B63D-585CD9BCE989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8CCD0F-871B-45FC-B63D-585CD9BCE989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8CCD0F-871B-45FC-B63D-585CD9BCE989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8CCD0F-871B-45FC-B63D-585CD9BCE989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA58FA7-B5EA-489B-A35F-840BB44D2DFB}
+	EndGlobalSection
+EndGlobal
